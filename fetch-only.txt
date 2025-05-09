@@ -1,0 +1,1 @@
+This is a file added only from GitHub for fetch test.
